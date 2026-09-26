@@ -1,7 +1,6 @@
 /*
  * Project: Love me not OLED Lyrics Animation
- * Author: @smartengineers32
- * 
+ * Author: @techcurious
  * Hardware Requirements:
  * - Microcontroller: ESP8266 (NodeMCU/Wemos) or ESP32.
  *   [WARNING: DO NOT USE ARDUINO UNO OR NANO! They only have 32KB of memory. 
